@@ -1,0 +1,38 @@
+-Po każdej zmianie parametrów należy wcisnąć przycisk Rysuj bądź wypełnij, aby zobaczyć efekty.
+-Przesuwanie
+	- Widoczna siatka
+	- Trzeba trzymająć lewy przycisk myszy przesuwać czerwony wierzchołek.
+	- Rysowanie w trakcie przesuwania trochę się opóźnia.
+-Przycisk Rysuj 
+	- rysuje obraz w siatce zbudowanej od zera z ustawionymi przez nas parametrami.
+-Przycisk Pokaż/Ukryj sitakę 
+	- pokazuje i ukrywa siatkę (siatka potrzebna jest do przesuwania wierzchołków)
+-GroupBox Rysunek:
+	-Radiobutton Textura - wybór obrazka z dysku (jeśli nie wybierzemy, załaduje się domyślna ścieżka)
+	-Radiobutton Kolor - wybór z palety koloru do wypełnienia
+-GroupBox Siatka
+	-H - liczba wierzchołków pionowo
+	-W - liczba wierzchołków poziomo
+-GroupBox Wypełnienie
+	-Kd - Wartości <0,1> skok przy przesuwaniu o 0.1
+	-Ks - Wartości <0,1> skok przy przesuwaniu o 0.1
+	-m - Wartości <1,100> skok przy przesuwaniu o 1
+	-Radiobutton Stała - ustawia stała wartość powyższych parametrów dla całego obrazka
+	-Radiobutton Losowa- dla każdego trójkąta losuje wartości powyższych parametrów
+-GroupBox N
+	- Radiobutton Stała -stała wartość parametru N = (0,0,1)
+	- Radiobutton Textura - wybór tekstury, do wyliczenia N, z dysku (jeśli nie wybierzemy, załaduje się domyślna ścieżka)
+	- Radiobutton B (babelek) - rysuje podczas przesuwania babelek o promieniu 100
+-GroupBox IL
+	- Radiobutton R,G,B - ustawianie wartość R/G/B
+	- Button - wybór koloru z palety - zmienia wartości w Radiobuttonach i swój kolor
+-GroupBox Metody
+	- Radiobutton Dokładny - przełącza na dokładne wypełnianie
+	- Radiobutton Iterpolacja - przełącza na wypełnianie interpolacyjne
+	- Radiobutton Hybryda- przełącza na wypełnianie hybrydowe
+-GroupBox Światło
+	- Radiobutton Stały - Światło stałe Wersor (0,0,1)
+	-Button Ruch - zmienia się wersor światła względem czasu
+-Button Wypełnij
+	-Wypełnia daną siatkę z podanymi parametrami
+
