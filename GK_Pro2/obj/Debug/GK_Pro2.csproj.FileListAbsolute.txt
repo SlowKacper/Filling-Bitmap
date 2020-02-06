@@ -1,0 +1,10 @@
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\bin\Debug\GK_Pro2.exe.config
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\bin\Debug\GK_Pro2.exe
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\bin\Debug\GK_Pro2.pdb
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.csprojAssemblyReference.cache
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.Form1.resources
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.Properties.Resources.resources
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.csproj.GenerateResource.cache
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.csproj.CoreCompileInputs.cache
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.exe
+C:\Kacper\STudia MINI\Semestr5\GK\Proj2\GK_Pro2\GK_Pro2\obj\Debug\GK_Pro2.pdb
